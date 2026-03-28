@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  background: #f5f5f5;
+}
+
+button {
+  margin: 5px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+div {
+  margin: 10px;
+}
